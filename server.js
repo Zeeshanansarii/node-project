@@ -3,7 +3,7 @@ const app = express();
 
 
 app.get('/', (req, res) => {
-    res.send("<h1> Hello, Welcome to IIT Bombay Computer Science ");
+    res.send("<h1> Hello, Welcome to IIT B Computer Science ");
 });
 
 
